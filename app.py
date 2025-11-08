@@ -8,7 +8,7 @@ def greet(name):
 def add_numbers(a, b):
     return a + b
 
-# 3. multiply_numbers 函数定义 (您刚刚添加的)
+# 3. multiply_numbers 函数定义 
 def multiply_numbers(a, b):
     return a * b
 
